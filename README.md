@@ -27,7 +27,7 @@ I observed various network traffic to and from Azure Virtual Machines with Wires
 
 -  Install Wireshark
 - open command prompt
-- I installed Wireshark to enhance network troubleshooting and analysis capabilities. Wireshark is a powerful tool that allows for the capture and detailed inspection of network traffic in real-time. By installing this application, I was able to monitor, diagnose, and resolve network-related issues more efficiently. Wireshark's comprehensive analysis features enabled me to identify bottlenecks, detect suspicious activity, and ensure the smooth operation of network services. This installation was essential for maintaining robust network performance and security, making it a critical component of my IT toolkit.
+- observe Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
 - cleanup 
 
 <h2>Actions and Observations</h2>
