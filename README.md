@@ -3,7 +3,7 @@
 </p>
 
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+I observed various network traffic to and from Azure Virtual Machines with Wireshark as well as experimented with Network Security Groups. <br />
 
 
 <h2>Video Demonstration</h2>
@@ -15,7 +15,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
+- observe Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
 - Wireshark (Protocol Analyzer)
 
 <h2>Operating Systems Used </h2>
@@ -25,10 +25,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+-  Install Wireshark
+- open command prompt
+- I installed Wireshark to enhance network troubleshooting and analysis capabilities. Wireshark is a powerful tool that allows for the capture and detailed inspection of network traffic in real-time. By installing this application, I was able to monitor, diagnose, and resolve network-related issues more efficiently. Wireshark's comprehensive analysis features enabled me to identify bottlenecks, detect suspicious activity, and ensure the smooth operation of network services. This installation was essential for maintaining robust network performance and security, making it a critical component of my IT toolkit.
+- cleanup 
 
 <h2>Actions and Observations</h2>
 
@@ -36,7 +36,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I installed Wireshark to enhance network troubleshooting and analysis capabilities. Wireshark is a powerful tool that allows for the capture and detailed inspection of network traffic in real-time. By installing this application, I was able to monitor, diagnose, and resolve network-related issues more efficiently. Wireshark's comprehensive analysis features enabled me to identify bottlenecks, detect suspicious activity, and ensure the smooth operation of network services. This installation was essential for maintaining robust network performance and security, making it a critical component of my IT toolkit.
 </p>
 <br />
 
@@ -44,7 +44,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is where i open the command prompt to start playing aroung with my system communication the diffrent servers like DNS and protocols such as SSH.
 </p>
 <br />
 
@@ -52,6 +52,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Using Wireshark, I observed various network protocols including SSH, RDP, DNS, HTTP/S, and ICMP. Wireshark's comprehensive packet analysis capabilities allowed me to inspect the traffic for each protocol in real-time or by analyzing captured data. By monitoring SSH sessions, I ensured secure remote access to systems. With RDP, I verified smooth remote desktop connections. DNS traffic analysis helped in resolving domain names and detecting any DNS-related issues. HTTP/S inspection allowed me to analyze web traffic for troubleshooting website performance or security concerns. ICMP packet analysis assisted in monitoring network connectivity and diagnosing potential network issues. Overall, leveraging Wireshark to observe these diverse network protocols provided valuable insights into network behavior, aiding in troubleshooting and ensuring optimal network performance and security.
 </p>
 <br />
